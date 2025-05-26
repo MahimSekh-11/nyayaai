@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytesseract
+Pillow
+torch
+transformers
+sentence-transformers
+scikit-learn
+python-multipart
